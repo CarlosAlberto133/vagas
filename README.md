@@ -1,5 +1,9 @@
 # vagas
 
+<p align="center">
+    <img width="600px" height="337px" src="src/assets/vagas.gif" />
+</p>
+
 ## Project setup
 ```
 npm install
